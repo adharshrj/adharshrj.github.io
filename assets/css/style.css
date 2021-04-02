@@ -831,6 +831,7 @@ a:hover {
   height: .7rem;
   background-color: #0078ff;
 }
+.mobile-text {text-align: justify !important;}
 
 /*--------------------------------------------------------------
 # Services
